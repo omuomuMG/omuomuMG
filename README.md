@@ -1,6 +1,6 @@
 # Utrilloppo
 Welcome to My Page👋 
-I'm Flutter engineer who is high school student.🎓 
+I'm Flutter engineer.
 I'd like to work as mobile aplication engiener📱💻 
 Please read my code🙇‍♂️ 
 
