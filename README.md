@@ -1,8 +1,5 @@
 # Utrilloppo
 Welcome to My Page👋 
-I'm Flutter engineer.
-I'd like to work as mobile aplication engiener📱💻 
-Please read my code🙇‍♂️ 
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utrilloppo&hide=javascript,html)](https://github.com/Utrilloppo/github-readme-stats)
