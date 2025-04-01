@@ -2,6 +2,7 @@
 
 ## 🧑‍💻 About Me
 - 🎓 CS Student in Japan
+- 💼 Currently working as a software engineer and programming teacher
 - 🚀 Developing Anki Add-ons
 - 🌍 Languages: 🇯🇵Japanese | 🇺🇸English | 🇨🇳Chinese (Beginner)
 
