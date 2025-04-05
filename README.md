@@ -1,4 +1,4 @@
-# こんにちは！ Hi, there! 你好!
+# こんにちは! Hi, there! 你好!
 
 ## 🧑‍💻 About Me
 - 🎓 CS Student in Japan
