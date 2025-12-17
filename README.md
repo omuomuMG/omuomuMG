@@ -1,10 +1,10 @@
-# こんにちは! Hi, there! 你好!
+# Hi, there! 你好! こんにちは! 
 
 ## 🧑‍💻 About Me
 - 🎓 CS Student in Japan
-- 💼 Currently working as a software engineer and programming teacher
+- 💼 Work for a US Tech Company from Japan.
 - 🚀 Developing Anki Add-ons
-- 🌍 Languages: 🇯🇵Japanese | 🇺🇸English | 🇨🇳Chinese (Beginner)
+- 🌍 Languages: 🇯🇵Japanese | 🇺🇸English | 🇨🇳Chinese (HSK4-5)
 
 ## ⚡ Tech Stack
 ### Programming Languages
