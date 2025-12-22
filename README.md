@@ -5,7 +5,7 @@
 - 🇺🇸 Working at a US tech company remotely from Japan.
 - 🇨🇳 Self-studying Mandarin from scratch using Anki.
 - 💻 Anki add-on developer
-- ✈️ **Interests:** Traveling (🇺🇸 Hawai, 🇰🇷 Seoul, 🇲🇾 KL, 🇸🇬 Singapore, 🇨🇳 Shanghai, Hangzhou, Dalian, 🇹🇭 Bangkok, 🇹🇼 Taipei, 🇻🇳 Hanoi, 🇮🇳 Delhi, Jaipur)
+- ✈️ **Interests:** Traveling (🇺🇸 Hawai, 🇰🇷 Seoul, Busan, 🇲🇾 KL, 🇸🇬 Singapore, 🇨🇳 Shanghai, Hangzhou, Dalian, 🇹🇭 Bangkok, 🇹🇼 Taipei, 🇻🇳 Hanoi, 🇮🇳 Delhi, Jaipur)
 - 🗣️ **Languages:** Japanese | English | Mandarin Chinese (HSK4-5)
 
 ## ⚡ Tech Stack
