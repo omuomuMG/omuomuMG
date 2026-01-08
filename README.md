@@ -6,7 +6,7 @@
 - 🇨🇳 Self-studying Mandarin from scratch using Anki.
 - 💻 Anki add-on developer
 - ✈️ **Interests:** Traveling (🇺🇸 Hawai, 🇰🇷 Seoul, Busan, 🇲🇾 KL, 🇸🇬 Singapore, 🇨🇳 Shanghai, Hangzhou, Dalian, 🇹🇭 Bangkok, 🇹🇼 Taipei, 🇻🇳 Hanoi, 🇮🇳 Delhi, Jaipur)
-- 🗣️ **Languages:** Japanese | English | Mandarin Chinese (HSK4-5)
+- 🗣️ **Languages:** Japanese | English | Mandarin Chinese (HSK4-5, lower-intermediate level)
 
 ## ⚡ Tech Stack
 ### Programming Languages
