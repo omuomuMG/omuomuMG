@@ -19,9 +19,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
-### Other Info
-![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)
-
 ## 🚀 Featured Projects
 
 <table>
@@ -53,7 +50,7 @@ https://ankiweb.net/shared/info/20342773
 <td width="60%">
   
 ### Pinyin Typing
-**Learn Chinese with typing**
+**Learn Chinese with Typing**
 
 🔗 Play Here:
 https://omuomumg.itch.io/pinyintyping
