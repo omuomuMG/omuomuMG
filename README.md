@@ -49,7 +49,7 @@ https://ankiweb.net/shared/info/20342773
 </td>
 <td width="60%">
   
-### Pinyin Typing
+### Pinyin Typing - Chinese Typing Game
 **Learn Chinese with Typing**
 
 🔗 Play Here:
