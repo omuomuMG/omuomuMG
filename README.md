@@ -57,5 +57,19 @@ https://omuomumg.itch.io/pinyintyping
 </td>
 </tr>
 
+<tr>
+<td width="40%">
+  <img  alt="Screenshot 2026-05-03 at 18 42 04" src="https://github.com/user-attachments/assets/8ccc9b28-9320-4ffd-a799-87ab6f449a51" />
+</td>
+<td width="60%">
+  
+### Bili Immersion
+**Subtitle Tool for Bilibili 哔哩哔哩**
+
+🔗 [Add Extension](https://chromewebstore.google.com/detail/bili-immersion/niooaelfecbdkmehkbnnmnnfgpkbkgkm?authuser=0&hl=en)
+</td>
+</tr>
+
+
 
 </table>
